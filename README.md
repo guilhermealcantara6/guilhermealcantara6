@@ -1,4 +1,4 @@
-## Oiii eu sou o Guilherme Alcântara, Tecnico em programação e tecnologia! 👋
+## Ola eu sou o Guilherme Alcântara, Tecnico em programação e tecnologia!
 
 
 <div style="display: inline_block"><br>
